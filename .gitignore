@@ -5,3 +5,11 @@ __pycache__
 runs/
 
 video_dataset/io_internal.py
+
+
+*.csv
+*.txt
+*.out
+*.err
+*.pth
+*.pt
